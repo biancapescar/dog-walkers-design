@@ -1,0 +1,263 @@
+* {
+
+    margin: 0;
+}
+
+body {
+    background-color: rgb(237, 237, 237);
+}
+
+.container1 {
+    background: linear-gradient(hsl(293, 100%, 63%), hsl(264, 100%, 61%));
+    height: 632px;
+    width: 391px;
+    border-bottom-left-radius: 89%200px;
+    border-bottom-right-radius: 400px;
+}
+
+.phone-container {
+    margin-top: 110px;
+    margin-left: -64px;
+    background-color: white;
+    height: 526px;
+    width: 259px;
+    border-radius: 48px;
+}
+
+.suprapuse {
+    display: flex;
+}
+
+.mini-container {
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    margin-top: 17px;
+    margin-left: 52px;
+    background-color: white;
+    height: 23px;
+    width: 136px;
+}
+
+.mininame-container {
+    margin-left: 11px;
+    border-top-left-radius: 28px;
+    background: linear-gradient(hsl(293, 100%, 63%), hsl(264, 100%, 61%));
+    height: 77px;
+    width: 236px;
+    border-top-right-radius: 28px;
+}
+
+.impreuna {
+    margin-bottom: 12px;
+    ;
+}
+
+.photo {
+    background-image: url(/image-daniel.jpg);
+    margin-left: 15px;
+    margin-top: 10px;
+    background-size: cover;
+    border-radius: 59%;
+    width: 26px;
+    height: 26px;
+}
+
+.name1 {
+    font-size: 13px;
+    margin-top: -23px;
+    color: white;
+
+}
+
+.name1 p {
+    font-size: 14px;
+    padding-left: 46px;
+}
+
+.name1 h5 {
+    margin-bottom: 10px;
+    font-size: 9px;
+    margin-left: 49px;
+
+}
+
+.text-container {
+    background-color: hsl(270, 20%, 96%);
+    height: 423px;
+    border-bottom-left-radius: 44px;
+    border-bottom-right-radius: 44px;
+
+}
+
+.text-phone1 {
+    margin-left: 19px;
+    margin-top: 16px;
+    padding-top: 3px;
+    padding-left: 10px;
+    border-radius: 10px;
+    height: 33px;
+    font-size: 11px;
+    width: 139px;
+    color: hsl(271, 15%, 43%);
+    background-color: hsl(270deg 11.25% 84.74%);
+
+}
+
+.text-phone2 {
+    margin-left: 19px;
+    margin-top: 8px;
+    padding-top: 3px;
+    padding-left: 10px;
+    border-radius: 10px;
+    height: 33px;
+    font-size: 11px;
+    width: 141px;
+    color: hsl(271, 15%, 43%);
+    background-color: hsl(270deg 11.25% 84.74%);
+
+}
+
+.container-photo {
+    display: flex;
+    margin-top: 20px;
+    margin-left: 100px;
+}
+
+.photo1 {
+    border-radius: 6px;
+    margin-right: 8px;
+    background-image: url(/dog-image-1.jpg);
+    background-size: cover;
+    width: 40px;
+    height: 40px;
+}
+
+.photo2 {
+    border-radius: 6px;
+    margin-right: 8px;
+    background-image: url(/dog-image-2.jpg);
+    background-size: cover;
+    width: 40px;
+    height: 40px;
+}
+
+.photo3 {
+    border-radius: 6px;
+    background-image: url(/dog-image-3.jpg);
+    background-size: cover;
+    width: 40px;
+    height: 40px;
+}
+
+.text3 {
+    margin-left: 91px;
+    margin-top: 8px;
+    padding-top: 3px;
+    padding-left: 10px;
+    border-radius: 10px;
+    height: 33px;
+    font-size: 11px;
+    width: 144px;
+    color: hsl(271, 15%, 43%);
+    background-color: white
+}
+
+.text4 {
+    margin-left: 133px;
+    margin-top: 8px;
+    padding-top: 3px;
+    padding-left: 10px;
+    border-radius: 10px;
+    height: 24px;
+    font-size: 11px;
+    width: 98px;
+    color: hsl(271, 15%, 43%);
+    background-color: white;
+}
+
+.text5 {
+    margin-left: 19px;
+    margin-top: 13px;
+    padding-top: 3px;
+    padding-left: 10px;
+    border-radius: 10px;
+    height: 43px;
+    font-size: 11px;
+    width: 146px;
+    color: hsl(271, 15%, 43%);
+    background-color: hsl(270deg 11.25% 84.74%);
+
+}
+
+.color-container {
+    border-radius: 8px;
+    margin-left: 21px;
+    margin-top: 12px;
+    height: 35px;
+    width: 182px;
+    display: flex;
+    background: linear-gradient(hsl(293, 100%, 63%), hsl(264, 100%, 61%));
+}
+
+.cercel {
+    margin-left: 6px;
+    margin-top: 9px;
+    width: 12px;
+    height: 12px;
+    border: 1px solid color;
+    border-radius: 50%;
+    border: 1px solid #a89797;
+}
+
+
+.text-color {
+    color: white;
+    margin-left: 7px;
+    margin-top: 10px;
+    font-size: 11px;
+
+
+}
+
+.text-color2 {
+    font-weight: bold;
+    margin-top: 7px;
+    margin-left: 55px;
+    color: white;
+
+}
+
+.title-container {
+
+    margin-left: 694px;
+    margin-top: -364px;
+
+}
+
+.title-text {
+    margin-bottom: 19px;
+    font-weight: bold;
+    font-size: 50px;
+    color: hsl(267, 30%, 26%)
+}
+
+.text {
+    width: 372px;
+    line-height: 1.6;
+    color: rgb(105 101 101);
+}
+
+.container2 {
+    left: 0;
+    background-color: rgb(198, 186, 203);
+    height: 632px;
+    width: 391px;
+    border-top-left-radius: 89%200px;
+    border-top-right-radius: 400px;
+    position: absolute;
+    margin-left: 1070px;
+    opacity: 0.5;
+    bottom: 0;
+
+
+}
